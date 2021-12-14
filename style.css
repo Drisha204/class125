@@ -1,0 +1,23 @@
+.heading
+{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(0, 255, 242);
+}
+.NOTE
+{
+    font-size: 10px;
+    color: black;  
+}
+.footer
+{
+    position:fixed;
+    font-size: 25px;
+    color: rgb(177, 27, 132);  
+    background-color: black;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    line-height:3;
+}
